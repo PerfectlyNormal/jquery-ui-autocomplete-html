@@ -1,0 +1,29 @@
+{
+    "name": "jquery.ui.autocomplete.html",
+    "title": "jQuery UI autocomplete HTML extension",
+    "description": "Treat the label for jQuery UI's autocomplete widget as HTML",
+    "keywords": [
+      "jquery",
+      "ui",
+      "autocomplete"
+    ],
+    "version": "1.0.0",
+    "author": {
+      "name": "Scott González",
+      "url": "https://github.com/scottgonzalez"
+    },
+    "licenses": [
+      {
+        "type": "MIT",
+        "url": "http://opensource.org/licenses/MIT"
+      },
+      {
+        "type": "GPL-2.0",
+        "url": "http://opensource.org/licenses/GPL-2.0"
+      }
+    ],
+    "main": "html.js",
+    "dependencies": {
+        "jquery": ">=1.4.3"
+    }
+}
